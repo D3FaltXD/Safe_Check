@@ -20,9 +20,11 @@ button {
   font-size: 2rem;
 }
 
-body {
-  overflow: hidden; /* Hide scrollbars */
+body::-webkit-scrollbar{
+  display: none;
 }
+
+
 /*_________________________________________nav bar____________________*/
 #container {
   position:relative;
