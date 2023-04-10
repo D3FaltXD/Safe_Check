@@ -819,7 +819,7 @@ legend {
   -ms-flex-align: center;
       align-items: center;
   font-family: 'Poppins', sans-serif;
-  background: url("../images/Searchs_004.png");
+  background-color: #EE406B;
   background-size: cover;
   background-position: center center;
   padding: 15px;
